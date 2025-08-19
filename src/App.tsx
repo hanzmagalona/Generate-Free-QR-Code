@@ -539,7 +539,7 @@ function App() {
       <header className="relative z-10 w-full max-w-4xl text-center py-8 mb-8">
         <h1 className="text-5xl font-extrabold text-primary drop-shadow-lg flex items-center justify-center gap-4 animate-fade-in-down">
           <QrCode size={48} className="text-accent" />
-         Generate Free QR Code
+          Generate Free QR Code
         </h1>
         <p className="text-textSecondary text-lg mt-2 animate-fade-in-up">
           Instantly generate beautiful QR codes for anything.
